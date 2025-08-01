@@ -125,29 +125,3 @@ top: 100px;
 
 
 
-.fa-square-facebook{
-    font-size: xx-large;
-    color: grey;
-    padding-left: 490px;
-position: relative;
-top: 130px;
-}
-
-.fa-twitter{
-
-     font-size: xx-large;
-    color: grey;
-    padding-left: 80px;
-position: relative;
-top: 130px;
-}
-
-.fa-square-facebook:hover{
-    cursor: pointer;
-    color: black;
-}
-
-.fa-twitter:hover{
-    cursor: pointer;
-    color: black;
-}
